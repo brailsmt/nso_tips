@@ -7,6 +7,7 @@
             - pierce: one hand and shield skill line
             - ice staff: heavy attack
             - others?  I don't know, defer to other experienced tanks
+
 ## Resistances
     - reduces incoming damage
         - 32.5k resistance max == 50% damage reduction
@@ -17,6 +18,7 @@
         - CP
             - Heavy Armor Focus: phys pen
             - Spell Shield: spell resistance
+
 ## Stats:
     - Health:  
         - trials: aim for at least 35k-40k health, minimum
