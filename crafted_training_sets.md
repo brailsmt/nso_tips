@@ -3,6 +3,9 @@ All training gear should be crafted such that there is at least one light, one m
 will ensure all armor skill lines are levelled simultaneously.
 
 ## Magicka Characters
+Magicka characters generally have 8 slots to work with while levelling, there are 7 armor slots plus one for a staff.
+This means that most Msgicka based builds utilize a 5 piece bonus from one set, plus a 3 set bonus for another.  Choose
+the 3 piece bonus based on whether you would prefer more magicka recovery, or more max magicka.
 
 ### DPS
 DPS Magicka characters will want to run the following sets w/ training traits:
@@ -12,7 +15,7 @@ DPS Magicka characters will want to run the following sets w/ training traits:
     - Use this set or Magnus' Gift
     - This set provides more max magicka than Magnus' Gift
 - Magnus' Gift  (3 pieces)
-    - Use this set of Armor of the Seducer
+    - Use this set or Armor of the Seducer
     - This set provides more magicka Recovery than Seducer
 
 ### Healers
@@ -26,12 +29,23 @@ looking to increase spell damage/healing.
     - Use this set or Magnus' Gift
     - This set provides more max magicka than Magnus' Gift
 - Magnus' Gift  (3 pieces)
-    - Use this set of Armor of the Seducer
+    - Use this set or Armor of the Seducer
     - This set provides more magicka Recovery than Seducer
 
 ## Stamina Characters
-Stay tuned...
 
 ### DPS
+Stamina DPS should generall run dual wield builds + bow.  This means that on one bar you will have 7 armor slots and 2
+weapons slots, meaning stam based characters benefit from a 5 piece set bonus and a 4 piece set bonus.  Jewelry should
+be from the Agility set, but anything increasing your stamina pool will work.
+- Hunding's Rage  (5 pieces)
+    - This is, hands down, the best levelling set available.  It is very viable in all end game and veteran content.
+- Night Mother's Gaze (4 pieces)
+    - Use this or Morkuldin.
+    - This set provides more weapon critical, but lower stamina regen and max stam than Morkuldin.
+- Morkuldin (4 pieces)
+    - Use this or Night Mother's Gaze.
+    - This set provides more max stamina and stamina regen, but lower weapon critical than NMG.
 
 ### Tanks
+Stay tuned...
